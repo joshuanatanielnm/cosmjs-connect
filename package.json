@@ -16,6 +16,11 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@protobufs/amino": "^0.0.11",
+    "@protobufs/cosmos": "^0.1.0",
+    "@protobufs/cosmwasm": "^0.1.1",
+    "@protobufs/ibc": "^0.1.0",
+    "@protobufs/osmosis": "^0.4.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
